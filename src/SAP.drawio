@@ -1,4 +1,4 @@
-<mxfile modified="2023-12-17T09:45:16.678Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HB5J3u-qFDtGQD-viYUQ" version="22.1.11" type="github">
+<mxfile modified="2023-12-17T09:46:08.487Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PVHo0TlT4WCvIwTzQNQ7" version="22.1.11" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tZQNSQ01kXHg7UyspBc-18" value="&lt;b&gt;Azure APP Gateway&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="295" width="100" height="40" as="geometry" />
+          <mxGeometry x="850" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-tZQNSQ01kXHg7UyspBc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="-tZQNSQ01kXHg7UyspBc-19" target="-tZQNSQ01kXHg7UyspBc-20">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,10 @@
           <mxGeometry x="1210" y="295" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-tZQNSQ01kXHg7UyspBc-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;openID &amp;amp; employee number&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="846.51" y="730" width="163.49" height="70" as="geometry" />
+          <mxGeometry x="840" y="720" width="163.49" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-tZQNSQ01kXHg7UyspBc-50" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;user&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290.5" y="690" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
